@@ -1,0 +1,12 @@
+body{
+    margin: 5px;
+    font-family: HeadlineFA;
+}
+
+button{
+    font-family: Bookman Caps;
+  }
+  
+  button:hover {
+    background-color: #002a53
+  }

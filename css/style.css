@@ -58,3 +58,24 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.p1{
+  font-family: "Sagacity";
+}
+
+.p1 p{
+  font-family: "Lord Skudley";
+}
+
+#p2{
+  font-family: "Indy";
+}
+#p3{
+  font-family: "Lord Skudley";
+  color: whitesmoke
+}
+
+#p4{
+  font-family:"Sagacity";
+  color: whitesmoke
+}

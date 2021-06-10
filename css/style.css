@@ -1,11 +1,11 @@
 body, html {
   height: 100%;
-  background-color: #002a53;
+  /* background-color: #002a53; */
 }
 
 .parallax {
   /* The image used */
-  background-image: url(../img/LS_Sagacity.jpg);
+  background-image: url(../img/LS_Sagacity.Banner.jpg);
 
   /* Full height */
   height: 100%; 
@@ -31,3 +31,30 @@ body, html {
   background-size: cover;
 }
 
+.parallax-3 {
+  /* The image used */
+  background-image: url(../img/Eebyrtagh.jpg);
+
+  /* Full height */
+  height: 75%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-4 {
+  /* The image used */
+  background-image: url(../img/Crew.1.jpg);
+
+  /* Full height */
+  height: 75%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

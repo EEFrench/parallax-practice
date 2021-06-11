@@ -2,6 +2,15 @@ body, html {
   height: 100%;
   /* background-color: #002a53; */
 }
+.brand{
+  font-family: "Lord Skudley";
+  color: #ffa202;
+}
+
+.nav-item, .nav-link{
+  font-family: "Sagacity Caps";
+  color:#ffa202 !important;
+}
 
 .parallax {
   /* The image used */

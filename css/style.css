@@ -1,12 +1,146 @@
-body{
-    margin: 5px;
-    font-family: HeadlineFA;
+body, html {
+  height: 100%;
+  /* background-color: #002a53; */
+}
+.brand{
+  font-family: "Lord Skudley";
+  color: #ffa202;
 }
 
-button{
-    font-family: Bookman Caps;
-  }
-  
-  button:hover {
-    background-color: #002a53
-  }
+.nav-item, .nav-link{
+  font-family: "Sagacity Caps";
+  color:#ffa202 !important;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url(../img/LS_Sagacity.Banner.jpg);
+
+  /* Full height */
+  height: 100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-2 {
+  /* The image used */
+  background-image: url(../img/Black_Feather\ Flag.jpg);
+
+  /* Full height */
+  height: 75%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-3 {
+  /* The image used */
+  background-image: url(../img/Eebyrtagh.jpg);
+
+  /* Full height */
+  height: 75%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-4 {
+  /* The image used */
+  background-image: url(../img/Crew.1.jpg);
+
+  /* Full height */
+  height: 75%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-5 {
+  /* The image used */
+  background-image: url(../img/1.Mustange\ Isles\ Color.JPG);
+
+  /* Full height */
+  height: 75%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footer{
+  font-family: "Sagacity Caps";
+}
+
+.p1, .p2, .p3, .p4 {
+  font-family: "Lord Skudley";
+}
+
+.p1 a{
+  font-family: "Sagacity";
+}
+
+
+.p2 p{
+  font-family: "Indy";
+}
+
+.p3{
+  color: whitesmoke;
+}
+.p3 a{
+  font-family: "Stonecross";
+  color: whitesmoke
+}
+
+.p4{
+  color: whitesmoke
+}
+.p4 a{
+  font-family:"Goonies";
+  color: whitesmoke
+}
+/* Social Media Links */  
+.fa {
+  /* padding: 10px; */
+  /* font-size: 400px; */
+  /* width: 30px; */
+  text-align: center;
+  text-decoration: none;
+  /* margin: 5px 2px; */
+  /* border-radius: 50%; */
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
